@@ -14,7 +14,7 @@ This recruitment process focuses on practical demonstration of skills through re
 
 | Challenge | Focus Area | Technology Stack | Description |
 |-----------|-------------|------------------|-------------|
-| [**Backend**](./backend/README.md) | API Development | FastAPI, JWT, Database | Build a secure backend with authentication and virtual wallet system |
+| [**Backend**](./backend/README.md) | API Development | FastAPI / Express JS, JWT, Database | Build a secure backend with authentication and virtual wallet system |
 | [**Frontend**](./frontend/README.md) | UI/UX Design | HTML/CSS/JS, React (optional) | Replicate responsive design with mobile sidebar functionality |
 
 <br/>
