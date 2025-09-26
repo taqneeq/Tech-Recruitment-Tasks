@@ -57,7 +57,7 @@ Important: This is a replication challenge. Your goal is to match the design as 
 ## Technology Stack Options
 
 ### Option A: Pure HTML/CSS/JS (Recommended for beginners)
-- Vanilla HTML5, CSS3 with Flexbox/Grid ans JS
+- Vanilla HTML5, CSS3 with Flexbox/Grid and JS
 - Focus on CSS animations and transitions
 
 ### Option B: Tailwind CSS (Bonus points)
